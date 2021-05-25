@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.allcards 
+{
+  display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.header{
+  margin: 25px;
+    font-size: xxx-large;
+    font-family: auto;
+    background: #f4e9db;
+}
+.footer{
+  font-family: auto;
+  background: #f4e9db;
+}
